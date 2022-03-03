@@ -21,7 +21,7 @@ export const putDb = async (content) => {
   const request = store.put({ content, id: 1 });
   const result = await request;
   if (!result) {
-    console.error(err);
+    console.log("err");
   } else {
     console.log(result);
   }
@@ -36,7 +36,7 @@ export const getDb = async () => {
   const request = store.get(1);
   const result = await request;
   if (!result) {
-    console.error(err);
+    console.log("Nothing in getDB");
   } else {
     return result.content;
   }
