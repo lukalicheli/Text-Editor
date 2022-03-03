@@ -22,3 +22,5 @@ So far I am the sole contributor to this project.
 My Github url is https://github.com/lukalicheli and you can reach me at lukalicheli@gmail.com for additional questions.
 
 DEMO: https://drive.google.com/file/d/1qaIwYPm9G-5IUsGF6kOY0fyVRyl_atz6/view
+
+Heroku: https://hybrid-text-editor.herokuapp.com/
